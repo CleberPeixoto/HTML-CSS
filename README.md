@@ -6,9 +6,12 @@
 
 Conheça alguns dos meus projetos!
 
-[*Desafios*](https://github.com/CleberPeixoto/HTML-CSS/tree/main/Desafios)
+[*Desafios*](https://github.com/CleberPeixoto/HTML-CSS/tree/main/Desafios) target _blanck
 
 [*Exercicios*](https://github.com/CleberPeixoto/HTML-CSS/tree/main/Exercicios)
 
  
  Curso feito pelo **[Professor Gustavo Guanabara](https://github.com/gustavoguanabara)** assitido no [CursoemVideo](https://www.cursoemvideo.com/)
+
+
+![#](https://media.tenor.com/CiPgIh1Gl8UAAAAM/edward-elric-fma.gif)
