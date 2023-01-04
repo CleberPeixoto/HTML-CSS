@@ -6,9 +6,13 @@
 
 Conheça alguns dos meus projetos!
 
-[*Desafios*](https://github.com/CleberPeixoto/HTML-CSS/tree/main/Desafios)
+<img src="imagens/desafio.png" width='15'> [*Desafios*](https://github.com/CleberPeixoto/HTML-CSS/tree/main/Desafios)
 
-[*Exercicios*](https://github.com/CleberPeixoto/HTML-CSS/tree/main/Exercicios)
+<img src="imagens/exer.png" width='15'> [*Exercicios*](https://github.com/CleberPeixoto/HTML-CSS/tree/main/Exercicios)
+
+<img src="imagens/android.png" width='15'> [*Site Android*](https://cleberpeixoto.github.io/projeto-cordel/) 
+
+<img src="imagens/poema.png" width='15'> [*Site Cordel Moderno*](https://cleberpeixoto.github.io/projeto-android/)
 
  
  Curso feito pelo **[Professor Gustavo Guanabara](https://github.com/gustavoguanabara)** assitido no [CursoemVideo](https://www.cursoemvideo.com/)
