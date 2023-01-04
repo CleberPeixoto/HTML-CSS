@@ -13,7 +13,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-size: 1em;
+    font-size: 0.8em;
 }
 
 html, body{
@@ -36,6 +36,7 @@ header > h1{
 }
 
 header > p{
+    font-size: 1.5em;
     padding-bottom: 50px;
 }
 
@@ -50,12 +51,16 @@ a:hover{
 }
 
 section{
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--F3);
-    font-size: 4vw;
+    font-size: 3vw;
+}
+
+section >p{
+    padding: 2em;
 }
 
 section.normal{
@@ -66,15 +71,30 @@ section.normal{
 section.imagem{
     background-color: rgb(36, 31, 31);
     color: white;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.74);
+    background-attachment: fixed;
 }
 
 section.imagem > p {
     display: inline-block;
     padding: 5px;
     background-color: rgb(83, 78, 78);
+    text-shadow: 1px 1px 0px black;
+}
+
+section#img01{
+    background-image: url('imagens/background001.jpg');
+    background-position: right center;
+    background-size: cover;
+}
+
+section#img02{
+    background-image: url('imagens/background002.jpg');
+    background-size: cover;
 }
 
 footer{
+    font-size: 2em;
     background-color: black;
     color: white;
     text-align: center;
