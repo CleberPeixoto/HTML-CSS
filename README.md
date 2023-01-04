@@ -6,7 +6,7 @@
 
 Conheça alguns dos meus projetos!
 
-[*Desafios*](https://github.com/CleberPeixoto/HTML-CSS/tree/main/Desafios) target _blanck
+[*Desafios*](https://github.com/CleberPeixoto/HTML-CSS/tree/main/Desafios)
 
 [*Exercicios*](https://github.com/CleberPeixoto/HTML-CSS/tree/main/Exercicios)
 
